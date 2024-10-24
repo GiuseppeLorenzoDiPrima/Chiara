@@ -1,6 +1,6 @@
 ## Guida alla cartella
 
-| **Description** | Esercizi svolti in p |
+| **Description** | Esercizi svolti in Python |
 | --- | --- |
 | **Authors** | Di Prima Giuseppe Lorenzo |
 
