@@ -1,4 +1,4 @@
-## Guida alla cartella
+# Guida alla cartella
 
 | **Description** | Esercizi svolti in Python |
 | --- | --- |
@@ -11,7 +11,7 @@ Benvenuta in questa repository! Qui troverai una delle possibili soluzioni per c
 > [!IMPORTANT]  
 > Per riprodurre queste soluzioni, hai due opzioni: puoi clonare la repository o copiare direttamente il codice da ciascun file. Scegli l'opzione che preferisci!
 
-Clonazione della Repository
+### Clonazione della Repository
 Se desideri clonare l'intera repository sul tuo computer, segui questi semplici passaggi:
 ```bash
 git clone https://github.com/GiuseppeLorenzoDiPrima/Chiara.git
@@ -24,6 +24,5 @@ python NOME_ESERCIZIO.py
 ```bash
 git --version
 ```
-Se non hai git installato, puoi scaricarlo e installarlo seguendo le istruzioni [qui](https://git-scm.com/downloads).
----
+## Se non hai git installato, puoi scaricarlo e installarlo seguendo le istruzioni [qui](https://git-scm.com/downloads).
 Ogni esercizio è accompagnato da commenti nel codice, per aiutarti a comprendere il funzionamento delle soluzioni.
